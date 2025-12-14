@@ -1,0 +1,5 @@
+Title: Example News Clipping
+Date: 2024-06-15
+Source: Public news (teaching sample)
+
+Local SME clusters report rising costs for compliance documentation, pushing them to share intelligence resources.

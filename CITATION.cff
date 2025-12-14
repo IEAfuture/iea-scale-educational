@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "IEA-SCALE Educational Implementation (Three-Tower Weak-Signal Intelligence)"
+type: software
+authors:
+  - family-names: "Brito-Cabrera"
+    given-names: "Carlos J."
+  - family-names: "Janissek-Muniz"
+    given-names: "Raquel"
+  - family-names: "Marroni"
+    given-names: "Natália"
+year: 2025
+license: MIT
+repository-code: "https://github.com/IEA-Future-Lab/iea-scale-educational"
+url: "https://github.com/IEA-Future-Lab/iea-scale-educational"
+abstract: >
+  Supplementary educational implementation inspired by the IEA-SCALE architecture
+  to teach a three-tower weak-signal intelligence pipeline with traceability and
+  human-in-the-loop sensemaking.
