@@ -1,0 +1,16 @@
+# Create and activate virtual environment
+ python -m venv foresight_env
+ source foresight_env/bin/activate  # On Windows: foresight_env\Scripts\activate
+
+ # Install required packages
+ pip install sentence-transformers chromadb openai python-dotenv PyPDF2
+
+ # Create project structure
+ mkdir weak_signal_system
+ cd weak_signal_system
+ mkdir data outputs
+ touch .env
+
+Add your API key to .env file:
+OPENAI_API_KEY=your_api_key_here
+ # Or use Anthropic: ANTHROPIC_API_KEY=your_key_here
